@@ -1,0 +1,26 @@
+{
+  "name": "multiroomchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karinez/MultiroomChat.git"
+  },
+  "author": "Karine Liuti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karinez/MultiroomChat/issues"
+  },
+  "homepage": "https://github.com/Karinez/MultiroomChat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-validator": "^5.0.1"
+  }
+}
