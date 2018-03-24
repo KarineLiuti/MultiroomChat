@@ -1,4 +1,4 @@
-# MultiroomChat
+# Multiroom Chat
 Multiroom chat real-time with NodeJS and WebSocket.
 
 Install nodemon
