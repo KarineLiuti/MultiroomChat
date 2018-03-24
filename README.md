@@ -18,4 +18,4 @@ Run app
 nodemon app
 ```
 
-Access: localhost:800 on your browser and access again on other anonymous mode browser.
+Access ```localhost:800``` on your browser and access again on other anonymous mode browser.
